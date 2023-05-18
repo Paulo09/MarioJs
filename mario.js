@@ -21,7 +21,7 @@ const mario = {
             this.x,                                     // Posição horizontal
             450 - this.y,                               // Posição vertical
             this.sprite.width,                          // Largura
-            this.sprite.height                          // Altura
+            this.sprite.height                          // Altura -- Altura em relação
         );
     },
 }
